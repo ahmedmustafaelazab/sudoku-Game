@@ -5,7 +5,6 @@ import 'package:sudoku/controllers/home_controller.dart';
 import 'package:sudoku/views/game_grid.dart';
 import 'package:sudoku/utilties/my_constant/my_constants.dart';
 
-// ignore: must_be_immutable
 class CustomBotton extends StatelessWidget {
   final String text;
   final double padding;
